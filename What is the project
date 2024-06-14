@@ -1,7 +1,27 @@
-Vprofile, 
+Vprofile project to replicate the actual environment . 
 
-Written in Java
+Our application is Written in Java
 
-It consist of multiple services, I will be deplying this product on five virtual machines. 
+It consists of multiple services, I will be deplying this product on five virtual machines. 
 
 The products like Mysql,apache, mysql service running on the same vm . Here we have five services running in five different virtual machine. We shold have local file to test our code . 
+
+It is for the problem like if we are not comfortable to making the changes in real servres and local setup is complex time consuming so we can setup it and use it. not repetable also 
+
+WE would set up the local machine and do r&d for our problem. 
+
+
+Local setup but it would be automated and repetable. Code entire stack locally with infrastuctuce as a code .
+
+Tools:
+>>Hypervious - Oracle VM virtualbox
+>>automation - Vagrant 
+>>CLI - GitBash
+>>IDE - notpad, visual sudio
+
+Install all in . 
+
+Objective :
+>>VM automation locally 
+>>baseline for upcoming projects 
+>>Real world project set up locally [ for R&D ]
